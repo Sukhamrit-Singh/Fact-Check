@@ -1,1 +1,1 @@
-# AI-Fact-Checking
+# AI-Fact-Checking (STEM-TO-SHTEM RESEARCH PROJECT)
