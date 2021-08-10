@@ -4,7 +4,6 @@ Fact Check is a system that was developed to combat the problem of misinformatio
 
 ![Final Slides Presentation (2)](https://user-images.githubusercontent.com/54965675/128821417-e6f3fac8-309c-4e60-a00a-572ed3f4208b.png)
 ## Link to AI Fact Checking and Claim Correcting System on Google Colab
-https://colab.research.google.com/drive/10IXFDXSqhshx04Pfqaoh1gDC4YjlhoVZ?usp=sharing
-
+shorturl.at/blqwJ
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
